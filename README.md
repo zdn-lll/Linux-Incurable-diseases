@@ -1,6 +1,10 @@
 # Linux-Incurable-diseases
 Linux疑难杂症
 
+请阅读Linux疑难杂症.md
+
+或
+
 请下载：下载压缩包，或者Linux疑难杂症.md文件和文件夹Linux疑难杂症.assets
 
 手册包含的章节：
