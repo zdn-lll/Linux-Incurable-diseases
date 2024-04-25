@@ -101,11 +101,11 @@ sudo yum install wget
 
 （1）在 vscode 中创建新的 SSH
 
-![image-20240228150759265](Linux预科.assets/image-20240228150759265.png)
+![image-20240228150759265](Linux疑难杂症.assets/image-20240228150759265.png)
 
 输入 ssh your_user_name@192.168.xxx.xxx 回车
 
-![image-20240228150825946](Linux预科.assets/image-20240228150825946.png)
+![image-20240228150825946](Linux疑难杂症.assets/image-20240228150825946.png)
 
 在Linux终端中使用命令查看 ip 地址 (两种命令都可以)
 
@@ -114,31 +114,31 @@ ip a
 ifconfig
 ```
 
-![image-20240228151302831](Linux预科.assets/image-20240228151302831.png)
+![image-20240228151302831](Linux疑难杂症.assets/image-20240228151302831.png)
 
 选择第一个
 
-![image-20240228151430594](Linux预科.assets/image-20240228151430594.png)
+![image-20240228151430594](Linux疑难杂症.assets/image-20240228151430594.png)
 
 选择 连接
 
-![image-20240228151530312](Linux预科.assets/image-20240228151530312.png)
+![image-20240228151530312](Linux疑难杂症.assets/image-20240228151530312.png)
 
 ==注意：若出现创建连接后，跳转至扩展下载界面的情况，请按路径找到上图中红色箭头所指的文件，并删除==
 
 在弹出的窗口中输入你的密码。该窗口会多次弹出，按要求输入密码即可。
 
-![image-20240228151639847](Linux预科.assets/image-20240228151639847.png)
+![image-20240228151639847](Linux疑难杂症.assets/image-20240228151639847.png)
 
 在 终端 中输入命令 ls 显示的文件与虚拟机中的文件相同则连接成功
 
-![image-20240228151917883](Linux预科.assets/image-20240228151917883.png)
+![image-20240228151917883](Linux疑难杂症.assets/image-20240228151917883.png)
 
 点击 打开文件夹 可选择你想要的目录
 
 注意：输入密码后才可选择
 
-![image-20240228152040954](Linux预科.assets/image-20240228152040954.png)
+![image-20240228152040954](Linux疑难杂症.assets/image-20240228152040954.png)
 
 ==注意: 不要让你的 Linux 开启自动息屏功能,不然虚拟机有机率卡死==
 
@@ -187,7 +187,7 @@ uname -m
 
 ## 5、ubuntu右上角的网络连接图标消失解决办法
 
-![img](Linux预科.assets/807b2fa62a934fbfbfdd3eb7cb66e9ec.png)
+![img](Linux疑难杂症.assets/807b2fa62a934fbfbfdd3eb7cb66e9ec.png)
 
 **[ubuntu](https://so.csdn.net/so/search?q=ubuntu&spm=1001.2101.3001.7020)更新了几个文件后，我的ubuntu20系统右上角的网络连接图标就消失了，然后怎么也找不到了，怎么办呢？在Ubuntu22上，network-manager要替换成NetworkManager，否则会提示Failed to start network-manager.service: Unit network-manager.service not found.**
 
