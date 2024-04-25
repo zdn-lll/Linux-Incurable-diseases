@@ -40,7 +40,7 @@ sudo passwd root
 
 1. 在vscode上安装下面三个插件
 
-![image-20240228145133015](Linux预科.assets/image-20240228145133015.png)
+![image-20240228145133015](Linux疑难杂症.assets/image-20240228145133015.png)
 
 2. 在Linux中，打开终端，并安装 openssh-server 软件包：
 
@@ -57,7 +57,7 @@ sudo systemctl status ssh
 
 出现 active(running) 意味着服务正在运行
 
-![image-20240228145909693](Linux预科.assets/image-20240228145909693.png)
+![image-20240228145909693](Linux疑难杂症.assets/image-20240228145909693.png)
 
 按`q`返回命令行。
 
